@@ -1,0 +1,13 @@
+name: wire-env
+channels:
+  - https://conda.anaconda.org/soft-matter
+  - https://conda.anaconda.org/conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scikit-image
+  - scipy
+  - tifffile
+  - pims
+  - jupyter
